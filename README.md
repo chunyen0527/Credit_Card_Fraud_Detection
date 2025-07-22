@@ -39,10 +39,10 @@ This project focuses on detecting fraudulent credit card transactions using supe
 
 ## Model Summary
 
-| Model                | Metrics Used                     | Performance                               |
-|---------------------|----------------------------------|-------------------------------------------|
-| Logistic Regression | Accuracy, Precision, Recall, F1 | ✅ Used as a baseline                      |
-| Random Forest       | Confusion Matrix, AUC           | ✅ Improved performance on fraud class     |
+| Model               | Metrics Used                     | Performance                                |
+|---------------------|----------------------------------|--------------------------------------------|
+| Logistic Regression | Accuracy, Precision, Recall, F1  | Used as a baseline                         |
+| Random Forest       | Confusion Matrix, AUC            | Improved performance on fraud class        |
 
 ---
 
