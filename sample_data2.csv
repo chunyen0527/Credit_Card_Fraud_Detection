@@ -1,0 +1,501 @@
+category,gender,amt,age_years,city_pop,state,time_period,is_weekend,is_fraud
+gas_transport,M,71.8,55.1,418884,SD,Morning,1,0
+misc_pos,M,65.02,77.5,37559,MO,Evening,1,0
+gas_transport,M,96.31,23.5,138841,MA,Evening,0,0
+misc_pos,F,141.73,43.1,220921,RI,Late Night,1,0
+shopping_pos,M,17.3,77.2,214988,IL,Afternoon,0,0
+food_dining,M,68.05,64.7,85085,MT,Afternoon,1,0
+kids_pets,F,29.27,38.9,166688,MS,Late Night,0,0
+kids_pets,M,134.17,78.9,193656,OH,Late Night,0,0
+kids_pets,M,144.7,53.5,219784,NC,Morning,0,0
+food_dining,M,72.07,53.9,260441,MO,Late Night,0,0
+shopping_pos,M,16.05,88.3,199369,TX,Afternoon,1,0
+misc_net,M,117.9,86.2,248838,MT,Afternoon,0,0
+personal_care,F,104.72,43.8,416649,AZ,Evening,0,0
+home,F,53.52,28.1,88395,MT,Morning,0,0
+shopping_net,F,133.17,41.4,448927,NH,Evening,0,0
+grocery_pos,M,146.39,20.2,310185,IL,Morning,1,0
+home,M,83.9,19.5,110003,NE,Evening,0,0
+kids_pets,M,85.08,46.5,301119,WI,Morning,0,0
+misc_net,M,44.98,85.8,391219,VT,Late Night,1,0
+food_dining,M,87.88,80.7,143870,FL,Afternoon,0,0
+health_fitness,F,66.23,54.8,96600,CA,Late Night,0,0
+misc_net,F,45.68,58.7,324070,ID,Morning,0,0
+shopping_pos,F,10.54,18.4,162580,TX,Morning,0,0
+health_fitness,M,38.28,33.5,124728,OK,Evening,1,0
+food_dining,F,30.08,19.8,219593,NV,Morning,1,0
+entertainment,F,81.54,72.3,78945,TN,Late Night,1,0
+shopping_net,F,90.45,28.5,363209,VT,Morning,1,0
+gas_transport,F,91.48,80.6,146305,RI,Morning,1,0
+personal_care,M,58.53,64.3,120953,MD,Evening,1,0
+grocery_pos,M,63.47,34.5,204918,WI,Morning,0,0
+home,F,125.22,29.4,167298,NC,Evening,0,0
+misc_pos,F,71.7,63.2,33143,WA,Afternoon,0,0
+misc_pos,F,148.17,82.9,397394,NH,Evening,0,0
+gas_transport,F,66.22,69.7,54006,OR,Morning,1,0
+misc_net,F,97.61,43.1,11237,ME,Afternoon,0,0
+misc_pos,F,8.03,60.3,291594,HI,Morning,0,0
+shopping_net,F,98.17,40.4,266942,NC,Evening,1,0
+grocery_net,F,127.79,89.9,130219,ME,Late Night,0,0
+misc_pos,F,141.4,71.9,426448,IL,Afternoon,0,0
+food_dining,M,149.6,62.2,10265,FL,Late Night,1,0
+gas_transport,F,42.69,48.5,131966,ND,Late Night,0,0
+grocery_pos,M,86.52,62.5,406962,WA,Afternoon,0,0
+gas_transport,M,67.88,42.6,219887,RI,Late Night,1,0
+grocery_pos,F,84.79,20.1,399186,IA,Late Night,0,0
+grocery_net,F,24.04,46.4,98993,AK,Late Night,0,0
+shopping_pos,M,128.49,85.0,292980,GA,Late Night,0,0
+personal_care,M,136.48,63.1,233789,VT,Afternoon,0,0
+misc_pos,F,67.72,24.0,320328,CA,Morning,0,0
+shopping_pos,M,42.42,81.7,16311,OH,Late Night,1,0
+gas_transport,F,21.55,37.4,86765,MD,Afternoon,0,0
+shopping_net,F,102.72,35.6,452854,CT,Afternoon,0,0
+health_fitness,M,47.18,39.4,138549,SC,Afternoon,0,0
+kids_pets,F,136.48,59.6,140033,TX,Afternoon,1,0
+shopping_pos,M,100.82,57.2,411137,LA,Evening,1,0
+shopping_net,F,97.03,53.4,340732,NE,Morning,1,0
+grocery_net,F,84.13,69.7,467899,WA,Morning,0,0
+misc_net,M,7.34,40.8,158125,NV,Late Night,0,0
+health_fitness,M,139.82,74.3,390114,UT,Afternoon,0,0
+grocery_pos,F,94.38,30.6,299045,NH,Evening,0,0
+gas_transport,F,149.11,74.3,18377,MA,Afternoon,0,0
+grocery_pos,M,80.83,65.8,482755,CO,Late Night,1,0
+grocery_pos,F,106.66,67.2,346006,FL,Morning,0,0
+travel,M,8.9,52.7,415944,NC,Late Night,0,0
+shopping_net,M,94.94,66.0,344490,MD,Late Night,1,0
+shopping_net,M,114.82,23.7,129450,NC,Late Night,1,0
+grocery_net,F,116.89,79.3,290046,MD,Late Night,1,0
+shopping_net,M,115.63,22.0,456813,MO,Late Night,1,0
+health_fitness,F,34.33,28.7,477636,MO,Late Night,1,0
+gas_transport,M,146.32,59.5,385038,LA,Late Night,0,0
+misc_pos,F,149.28,71.2,200986,ME,Morning,0,0
+entertainment,F,11.8,23.5,447018,IL,Morning,0,1
+home,M,140.5,84.3,259817,TN,Afternoon,0,0
+home,M,43.77,88.1,421993,MS,Afternoon,0,0
+shopping_net,M,103.55,61.6,138672,WI,Evening,1,0
+grocery_net,F,51.05,52.6,4115,ME,Evening,0,0
+misc_net,F,145.18,71.4,480688,KY,Morning,0,0
+shopping_net,F,15.67,41.6,130405,KY,Morning,1,0
+food_dining,M,74.91,53.5,499862,OR,Evening,1,0
+shopping_pos,M,64.49,84.0,321056,MS,Morning,0,0
+entertainment,M,49.24,86.8,7926,MN,Evening,0,0
+gas_transport,M,97.01,84.7,9301,SC,Afternoon,1,0
+home,M,20.09,36.9,29148,ND,Morning,0,0
+misc_net,F,107.64,34.7,383715,MO,Morning,1,0
+food_dining,M,147.1,39.4,20041,MA,Evening,0,0
+health_fitness,F,120.78,49.8,342885,ND,Late Night,1,0
+gas_transport,M,129.07,40.6,58518,NY,Late Night,1,0
+grocery_pos,M,54.27,44.9,196861,SD,Afternoon,1,0
+shopping_net,M,49.07,62.7,303785,FL,Morning,0,0
+misc_net,M,77.8,72.9,443255,HI,Morning,1,0
+gas_transport,M,7.34,71.0,70522,AL,Evening,1,0
+entertainment,F,141.83,76.6,380313,MI,Late Night,0,0
+grocery_pos,M,22.0,20.3,155122,MT,Late Night,0,0
+entertainment,F,135.5,21.4,121065,NC,Afternoon,0,0
+kids_pets,F,13.0,74.8,198975,WA,Late Night,1,0
+home,F,123.48,56.4,151814,WA,Late Night,1,0
+personal_care,F,23.22,59.6,459822,HI,Late Night,1,0
+food_dining,M,6.2,21.8,41707,WI,Evening,0,0
+travel,M,108.06,36.4,424604,GA,Late Night,0,0
+personal_care,M,42.4,64.0,374361,MA,Afternoon,1,0
+misc_net,M,107.32,79.9,345109,WI,Late Night,0,0
+grocery_pos,M,83.49,84.0,14550,MA,Afternoon,0,1
+home,F,16.77,54.0,267862,SD,Evening,1,0
+grocery_net,M,139.85,57.3,254051,CT,Evening,1,0
+shopping_net,M,68.12,78.0,165435,ID,Afternoon,0,0
+shopping_pos,F,110.3,56.7,67683,MI,Evening,1,0
+entertainment,M,75.4,55.2,337144,RI,Morning,0,0
+travel,M,90.85,83.2,261460,WV,Morning,0,0
+kids_pets,F,45.76,74.9,291038,MD,Morning,1,0
+shopping_pos,M,30.45,83.5,275335,WA,Morning,1,0
+entertainment,F,81.61,33.7,461738,KS,Morning,0,0
+gas_transport,F,66.31,55.8,480424,CO,Evening,0,0
+health_fitness,M,58.82,78.7,277405,HI,Afternoon,1,0
+kids_pets,F,101.05,26.0,397474,WA,Evening,0,0
+kids_pets,M,103.73,75.2,385856,KY,Late Night,0,0
+food_dining,M,7.37,31.2,27763,VA,Morning,0,0
+misc_net,M,51.14,76.2,216553,ID,Morning,0,0
+grocery_net,F,62.06,62.1,400049,OK,Evening,0,0
+grocery_net,F,14.99,31.9,362205,FL,Late Night,1,0
+travel,F,35.77,52.1,234519,NH,Evening,0,0
+food_dining,F,8.22,67.1,163173,AZ,Afternoon,0,0
+entertainment,F,149.44,63.6,432444,AK,Morning,1,0
+misc_pos,F,110.62,48.8,442946,IA,Evening,1,0
+home,F,13.57,82.8,140501,NJ,Afternoon,1,0
+personal_care,F,3.53,55.4,315349,WV,Morning,0,0
+misc_pos,F,108.03,54.4,325680,AZ,Morning,0,0
+gas_transport,F,66.16,22.5,390623,AL,Morning,1,0
+grocery_net,F,118.13,84.4,130805,KS,Late Night,1,0
+personal_care,M,138.56,30.8,255028,MA,Evening,1,0
+misc_net,F,90.1,56.0,221520,MN,Morning,1,0
+health_fitness,M,28.47,75.9,92735,OH,Morning,1,0
+travel,M,117.44,33.5,69679,ND,Afternoon,0,0
+entertainment,M,143.39,56.0,276486,GA,Evening,1,0
+misc_net,M,87.24,35.3,99001,AZ,Afternoon,0,0
+misc_net,F,102.46,72.7,222986,AK,Evening,0,0
+grocery_pos,M,50.95,58.6,125156,AR,Morning,1,0
+kids_pets,M,57.54,79.6,420449,KY,Late Night,1,0
+home,M,110.33,82.4,155912,ND,Afternoon,1,0
+personal_care,F,139.2,64.7,362872,GA,Late Night,1,0
+kids_pets,M,94.53,70.2,31076,SD,Late Night,1,0
+misc_net,M,118.58,57.5,171239,RI,Late Night,0,0
+travel,F,26.16,45.7,11331,ME,Evening,1,0
+food_dining,F,32.19,64.7,459421,KY,Evening,1,0
+misc_pos,F,80.04,83.4,134500,FL,Late Night,0,0
+grocery_pos,F,26.89,48.0,246000,MS,Morning,1,0
+kids_pets,F,95.43,40.6,25361,OR,Morning,1,0
+gas_transport,F,44.1,46.0,287506,AZ,Late Night,1,0
+personal_care,F,118.83,49.3,396596,KS,Afternoon,0,0
+personal_care,F,121.31,23.3,477999,RI,Afternoon,1,0
+health_fitness,F,69.84,53.9,162914,ND,Evening,1,0
+health_fitness,M,27.53,53.6,3690,ME,Afternoon,1,0
+home,F,97.19,60.4,378970,MS,Morning,1,0
+shopping_pos,M,148.92,44.1,181398,UT,Late Night,0,0
+personal_care,M,93.58,62.1,87642,AZ,Afternoon,1,0
+gas_transport,F,5.85,81.2,13670,NM,Late Night,0,0
+kids_pets,F,3.09,86.8,231701,VA,Afternoon,1,0
+kids_pets,F,48.39,60.0,226301,LA,Evening,1,0
+misc_net,F,29.77,21.1,482759,NC,Morning,1,0
+kids_pets,M,122.05,87.8,271777,WA,Evening,0,0
+gas_transport,M,126.8,68.8,388134,CT,Late Night,1,1
+health_fitness,F,39.16,42.2,475599,SC,Morning,1,0
+misc_net,M,49.18,28.6,406682,IA,Morning,0,0
+entertainment,F,35.82,28.3,376063,KS,Evening,1,0
+gas_transport,M,136.3,30.1,255119,VT,Afternoon,1,0
+food_dining,M,75.65,21.3,338612,IL,Evening,1,0
+shopping_net,F,98.59,83.0,421641,FL,Late Night,1,0
+kids_pets,F,62.61,56.9,34898,KY,Afternoon,0,1
+health_fitness,M,94.84,68.4,170625,TN,Evening,0,0
+misc_pos,F,58.19,77.6,285093,OH,Evening,0,0
+personal_care,M,51.28,75.0,187115,WA,Afternoon,1,0
+personal_care,F,95.35,81.5,399473,MO,Afternoon,1,0
+kids_pets,F,88.86,87.6,374216,NJ,Afternoon,1,0
+food_dining,F,44.38,49.6,423494,KY,Evening,1,0
+personal_care,F,22.83,86.4,213709,CA,Afternoon,0,0
+health_fitness,F,55.6,70.1,291274,CA,Afternoon,1,0
+home,F,62.57,23.1,251297,NM,Afternoon,0,0
+kids_pets,F,94.49,67.1,126126,CA,Morning,1,0
+misc_net,M,137.22,67.4,182306,UT,Late Night,1,0
+grocery_pos,F,5.91,83.2,120498,IN,Afternoon,0,0
+personal_care,M,36.93,44.9,327973,OK,Late Night,1,0
+gas_transport,F,29.46,60.1,8264,WY,Afternoon,0,0
+food_dining,M,75.59,18.9,217550,MT,Afternoon,0,0
+kids_pets,F,64.74,41.9,1219,IA,Morning,1,0
+entertainment,F,109.49,22.5,13451,VT,Morning,0,0
+misc_pos,M,36.74,55.6,187235,WA,Afternoon,0,0
+health_fitness,F,89.38,76.9,72176,NE,Afternoon,1,0
+food_dining,F,132.64,32.9,307406,ME,Afternoon,0,1
+gas_transport,F,136.65,56.0,294004,MA,Late Night,0,0
+kids_pets,F,143.84,32.7,442994,OH,Afternoon,1,0
+entertainment,F,116.1,26.7,223236,CT,Late Night,0,0
+health_fitness,M,135.95,54.8,89174,WV,Morning,1,0
+gas_transport,F,35.56,23.7,381811,HI,Late Night,0,0
+health_fitness,M,30.04,60.3,491094,KS,Afternoon,1,0
+gas_transport,M,1.47,20.3,440944,LA,Morning,1,0
+personal_care,M,106.17,25.7,485210,ID,Evening,1,0
+personal_care,M,140.65,57.6,235321,OH,Morning,1,1
+kids_pets,M,28.45,60.6,261882,NV,Evening,1,0
+grocery_pos,M,95.72,20.1,171911,MI,Late Night,0,1
+grocery_net,M,112.1,59.3,29838,NY,Morning,1,0
+misc_net,M,139.18,78.4,248533,AR,Morning,1,0
+grocery_pos,F,97.21,70.0,309165,TN,Morning,0,0
+shopping_net,M,145.56,27.4,384692,WY,Late Night,1,0
+travel,F,52.03,60.7,256449,LA,Afternoon,0,0
+grocery_net,M,52.81,66.4,61168,WY,Late Night,0,1
+kids_pets,M,81.68,20.7,285825,WI,Morning,1,0
+kids_pets,F,57.83,79.6,95772,MA,Afternoon,0,0
+kids_pets,M,0.71,83.3,21585,MT,Morning,0,0
+grocery_net,F,109.9,79.2,223873,SD,Morning,0,0
+shopping_pos,M,112.88,77.4,36394,MS,Evening,1,0
+entertainment,F,112.17,71.6,315245,KS,Morning,0,0
+food_dining,F,52.08,63.6,132806,ND,Late Night,1,0
+grocery_net,M,78.58,66.9,44069,MD,Late Night,1,0
+misc_pos,M,54.32,76.1,193,KS,Late Night,0,0
+food_dining,M,2.9,65.7,28470,TN,Afternoon,1,0
+personal_care,M,84.59,41.6,19850,CA,Evening,0,0
+misc_pos,F,19.0,45.1,237192,KY,Evening,0,0
+travel,F,12.47,82.6,243807,VA,Morning,1,0
+travel,F,113.45,19.2,248806,WI,Morning,1,0
+gas_transport,F,1.92,68.3,278716,NC,Evening,1,0
+misc_net,F,143.87,86.7,243717,MN,Afternoon,0,0
+misc_net,F,77.53,68.8,19034,UT,Late Night,0,0
+travel,F,147.46,89.6,437090,NC,Morning,0,0
+personal_care,M,9.17,67.5,219229,IN,Evening,1,0
+misc_net,M,87.74,20.5,301369,RI,Afternoon,0,0
+home,M,52.72,77.5,460297,NE,Late Night,0,0
+grocery_net,M,126.6,38.5,479857,LA,Morning,0,0
+entertainment,M,54.5,50.1,301347,CA,Late Night,0,1
+gas_transport,M,39.44,40.5,477066,WY,Late Night,1,0
+travel,M,128.7,37.3,191257,ND,Evening,0,0
+kids_pets,M,56.51,49.1,350949,NV,Evening,1,0
+grocery_net,F,3.02,45.3,318787,CA,Late Night,0,0
+misc_pos,M,58.85,63.6,148110,PA,Late Night,0,0
+misc_pos,M,98.35,76.5,339736,CT,Morning,0,0
+food_dining,M,38.53,39.4,444902,WI,Afternoon,1,0
+travel,F,65.08,33.4,320268,ME,Afternoon,1,0
+kids_pets,M,8.98,66.0,170859,NY,Late Night,1,0
+home,F,88.42,66.3,464445,CO,Evening,0,0
+personal_care,F,113.57,82.9,288451,AK,Afternoon,0,0
+misc_pos,M,62.29,19.1,49454,IN,Late Night,1,0
+misc_net,F,63.32,79.4,236629,TX,Evening,0,0
+food_dining,M,13.7,55.5,168482,ID,Morning,0,0
+grocery_pos,M,30.69,62.7,49060,NE,Afternoon,1,0
+health_fitness,M,23.62,24.6,323506,MI,Morning,0,0
+shopping_pos,F,72.51,49.1,97255,AK,Evening,0,0
+food_dining,M,79.62,34.4,257191,SD,Late Night,0,0
+food_dining,M,142.37,36.3,144575,MA,Morning,1,0
+shopping_pos,M,11.45,54.3,144237,LA,Late Night,0,0
+travel,F,90.18,76.5,221102,KY,Afternoon,1,0
+travel,F,79.21,71.6,157973,TX,Morning,0,0
+misc_pos,F,77.68,60.6,108282,CA,Afternoon,1,0
+travel,F,131.04,56.8,99232,IA,Afternoon,1,0
+grocery_net,M,31.23,48.8,422546,MO,Afternoon,1,0
+kids_pets,M,6.6,88.0,334950,AR,Afternoon,1,0
+travel,F,101.0,58.3,477258,WI,Afternoon,0,0
+shopping_pos,M,52.1,36.3,483530,MO,Evening,1,0
+personal_care,F,3.13,34.6,292212,WV,Morning,0,0
+grocery_pos,M,38.08,62.0,42617,GA,Late Night,0,0
+misc_net,M,46.74,55.6,250814,AZ,Late Night,1,0
+grocery_net,F,92.72,18.6,184411,GA,Evening,0,0
+gas_transport,F,26.3,77.8,425971,ME,Late Night,0,0
+misc_pos,M,62.25,68.7,485939,OR,Late Night,0,0
+kids_pets,F,72.63,65.7,254155,MD,Late Night,0,0
+entertainment,M,69.16,23.0,129382,MO,Morning,1,0
+misc_net,M,146.1,44.1,193943,AR,Late Night,0,0
+grocery_net,M,7.3,85.3,46084,GA,Morning,0,0
+personal_care,M,142.67,80.1,142221,ND,Late Night,0,1
+misc_net,F,87.5,38.6,334565,AL,Late Night,0,0
+kids_pets,M,119.46,29.3,238474,OK,Morning,0,0
+gas_transport,M,64.84,50.3,121954,HI,Evening,1,0
+gas_transport,M,68.35,43.6,458129,IL,Late Night,0,0
+travel,F,131.96,67.1,397971,ME,Afternoon,1,0
+misc_net,M,134.44,87.6,477310,IA,Afternoon,0,0
+gas_transport,F,36.18,44.1,260703,HI,Evening,1,0
+grocery_net,F,30.29,22.5,90738,HI,Afternoon,0,0
+misc_net,F,74.69,82.6,203626,ME,Morning,0,0
+shopping_net,F,135.09,20.7,331216,MO,Late Night,1,0
+grocery_net,F,48.69,86.6,283676,AL,Late Night,1,0
+personal_care,F,97.98,65.8,221581,NM,Late Night,1,0
+gas_transport,F,106.37,85.8,496492,KS,Late Night,0,0
+travel,M,116.91,32.4,65996,FL,Afternoon,1,0
+home,M,84.81,20.9,241385,OK,Afternoon,1,1
+health_fitness,F,60.67,53.2,201307,ME,Afternoon,1,0
+entertainment,F,145.07,50.4,436252,TN,Morning,0,0
+travel,F,91.89,41.9,105135,KY,Afternoon,0,0
+misc_pos,M,109.42,87.0,493697,MI,Afternoon,0,0
+kids_pets,F,52.07,77.2,275994,KS,Late Night,1,0
+entertainment,M,100.66,65.6,290231,CA,Afternoon,0,0
+grocery_net,M,39.04,29.7,248033,VA,Evening,0,0
+health_fitness,F,37.14,70.9,365239,CT,Evening,0,0
+health_fitness,M,107.35,70.3,288409,WI,Late Night,0,0
+home,F,78.45,48.6,181713,CT,Afternoon,1,0
+travel,F,102.65,84.6,24446,NV,Evening,0,0
+personal_care,F,40.78,30.0,251831,MT,Evening,1,0
+shopping_net,M,90.01,37.2,3614,MN,Morning,1,0
+travel,F,66.87,22.6,24938,WI,Late Night,1,0
+grocery_pos,M,89.75,75.3,289803,IN,Evening,1,0
+grocery_pos,F,43.99,62.8,363467,LA,Evening,1,0
+grocery_net,F,107.46,40.7,490817,TN,Late Night,1,0
+health_fitness,F,120.99,29.8,59307,VT,Afternoon,0,0
+home,F,39.36,20.9,16485,IN,Late Night,1,0
+misc_pos,F,45.44,30.0,149489,NE,Morning,0,0
+misc_pos,M,99.34,50.6,393709,GA,Morning,1,0
+entertainment,F,104.49,35.8,24981,CA,Morning,0,0
+misc_net,F,105.76,36.6,374005,SC,Evening,1,0
+travel,F,102.56,81.0,230005,ND,Afternoon,0,0
+kids_pets,M,59.22,55.1,421271,AR,Morning,0,0
+home,F,59.53,70.5,58408,NH,Late Night,1,0
+misc_net,F,38.6,20.6,372759,NE,Morning,1,0
+gas_transport,F,23.95,44.3,189186,AR,Evening,1,0
+misc_pos,F,104.04,52.5,253367,KY,Morning,1,0
+grocery_net,M,14.43,31.4,196602,PA,Afternoon,0,0
+home,F,140.7,26.7,334275,MN,Morning,0,0
+health_fitness,M,124.09,80.7,367501,OR,Afternoon,1,0
+travel,M,128.7,85.6,349217,RI,Afternoon,1,0
+shopping_pos,M,136.05,23.7,59696,OK,Late Night,0,0
+food_dining,M,61.59,43.1,395029,MT,Afternoon,1,0
+food_dining,F,127.08,87.0,20528,FL,Evening,0,0
+misc_pos,F,24.13,24.0,62260,LA,Evening,1,0
+home,M,3.74,64.3,459487,ME,Afternoon,1,0
+misc_net,M,117.84,88.0,250994,IL,Afternoon,0,0
+personal_care,M,11.68,88.4,342973,ND,Morning,0,0
+shopping_net,F,148.28,51.9,60943,MS,Morning,1,0
+misc_net,M,101.38,29.7,416319,IL,Late Night,0,0
+home,M,113.14,32.6,342413,ID,Morning,1,0
+personal_care,M,37.25,82.1,357008,IN,Evening,0,0
+kids_pets,M,101.24,83.6,435393,OK,Morning,1,1
+misc_pos,M,6.96,61.8,288974,NV,Late Night,1,0
+gas_transport,F,125.75,73.2,376326,MT,Late Night,1,0
+entertainment,M,25.86,71.3,73081,SD,Afternoon,0,0
+home,F,104.76,65.7,241891,AZ,Late Night,0,0
+kids_pets,F,34.06,77.6,473133,WY,Afternoon,0,0
+food_dining,F,10.73,67.3,203310,MT,Evening,0,0
+misc_net,F,72.48,56.4,327817,VA,Evening,1,0
+grocery_net,F,25.81,35.1,239300,HI,Morning,0,0
+misc_pos,M,109.55,71.6,160041,LA,Late Night,0,0
+personal_care,F,36.02,52.1,233251,AZ,Evening,0,0
+misc_net,F,51.7,39.2,31176,VA,Afternoon,1,0
+shopping_pos,M,85.33,75.7,485482,MN,Late Night,0,0
+gas_transport,F,43.1,68.2,479321,RI,Late Night,0,0
+kids_pets,M,57.01,85.5,229007,IA,Afternoon,1,1
+personal_care,M,122.44,29.9,126383,NV,Late Night,1,0
+food_dining,M,27.29,64.7,287338,TX,Late Night,1,0
+travel,M,12.79,35.6,157989,MA,Evening,1,0
+gas_transport,M,49.59,83.1,10655,WI,Afternoon,1,0
+entertainment,F,63.94,25.2,70756,ME,Evening,1,0
+grocery_pos,M,81.63,65.2,390305,IN,Afternoon,1,0
+grocery_net,M,56.18,75.0,473530,TX,Morning,0,0
+shopping_pos,F,118.59,43.6,383676,CO,Late Night,1,0
+entertainment,F,6.38,86.7,443509,HI,Late Night,1,0
+misc_pos,F,65.05,79.3,398031,PA,Evening,1,0
+misc_net,F,57.65,39.2,392938,NJ,Late Night,1,0
+health_fitness,M,97.31,18.5,296406,CO,Late Night,1,0
+health_fitness,F,144.96,39.4,101273,SC,Evening,0,0
+travel,M,76.8,38.3,360102,ID,Evening,0,0
+personal_care,F,148.04,82.1,102080,WI,Afternoon,0,0
+food_dining,F,45.69,87.6,495341,MT,Morning,0,0
+travel,F,5.11,23.1,388896,VT,Evening,0,0
+home,F,25.27,51.9,38558,VT,Afternoon,0,0
+shopping_net,F,59.57,57.5,104222,NM,Evening,0,0
+shopping_net,M,47.79,24.7,98638,MA,Afternoon,1,0
+misc_net,M,15.01,45.2,396456,PA,Morning,1,0
+health_fitness,M,65.18,40.8,467490,KY,Afternoon,1,0
+personal_care,F,51.05,56.6,111301,NY,Afternoon,1,0
+kids_pets,M,18.83,65.6,148555,NJ,Late Night,1,0
+shopping_net,F,44.77,68.7,148890,CO,Evening,1,0
+grocery_pos,F,133.02,27.8,499945,NJ,Afternoon,0,0
+food_dining,M,45.66,76.5,207332,NC,Evening,1,0
+shopping_pos,M,107.24,66.9,450715,GA,Afternoon,1,0
+grocery_net,F,92.0,82.0,349252,PA,Late Night,1,0
+shopping_net,F,64.36,50.4,153035,MS,Late Night,0,0
+entertainment,M,36.23,82.4,464942,KY,Morning,0,0
+entertainment,F,55.67,80.3,273621,ME,Afternoon,0,0
+health_fitness,M,89.02,49.6,345275,MD,Late Night,1,0
+food_dining,M,52.94,45.4,191695,VT,Evening,1,0
+health_fitness,F,32.63,85.2,124503,AK,Afternoon,1,0
+entertainment,F,17.91,69.5,146042,HI,Afternoon,0,0
+personal_care,F,132.03,84.8,319731,IL,Morning,0,0
+misc_pos,F,66.33,75.4,150472,WA,Evening,1,0
+gas_transport,M,93.97,61.9,449267,ME,Morning,0,0
+travel,F,73.82,26.3,67739,MD,Afternoon,1,0
+misc_net,M,130.95,39.0,352975,RI,Morning,0,0
+food_dining,M,82.27,87.8,124866,PA,Afternoon,0,0
+kids_pets,F,72.38,41.0,365673,NV,Afternoon,0,0
+health_fitness,M,138.73,24.7,260737,WI,Morning,1,0
+shopping_net,F,108.09,68.9,465442,IA,Morning,0,0
+health_fitness,F,17.18,70.8,436296,VA,Afternoon,1,0
+home,M,27.07,38.6,239076,OH,Morning,1,0
+grocery_pos,M,118.17,39.4,163222,AK,Morning,1,0
+shopping_net,M,125.46,51.8,134093,VT,Afternoon,0,0
+personal_care,F,82.01,19.6,393148,ND,Evening,0,0
+grocery_net,F,83.39,74.8,332514,MD,Morning,0,0
+health_fitness,M,94.97,40.8,347537,NV,Morning,1,0
+kids_pets,F,66.15,79.5,292572,WI,Late Night,0,0
+grocery_net,F,102.19,75.8,454136,NM,Evening,0,0
+grocery_pos,M,16.72,65.6,285382,CT,Morning,1,0
+home,F,144.21,41.4,212745,NV,Afternoon,1,0
+health_fitness,M,112.65,55.2,492456,MI,Late Night,1,0
+shopping_pos,M,94.86,50.0,405410,CT,Late Night,0,0
+grocery_net,M,47.79,42.4,458580,WI,Late Night,0,0
+shopping_pos,F,24.56,79.1,271272,MT,Morning,1,0
+grocery_net,M,61.7,52.8,240225,RI,Afternoon,0,0
+misc_pos,M,99.41,78.0,146604,ME,Late Night,1,0
+grocery_net,M,95.24,25.6,306063,ND,Evening,0,0
+entertainment,M,57.7,28.2,350871,ND,Late Night,1,0
+grocery_pos,F,92.19,88.4,258412,NC,Late Night,0,0
+kids_pets,M,122.16,60.3,212294,MT,Evening,1,0
+home,F,4.43,54.7,267556,IA,Late Night,1,0
+grocery_pos,M,67.87,55.7,26073,RI,Late Night,1,0
+gas_transport,F,113.9,33.5,102226,RI,Evening,0,0
+personal_care,F,82.15,69.7,448621,AR,Morning,0,0
+entertainment,F,97.9,24.1,160145,VT,Evening,0,0
+shopping_pos,F,77.74,59.3,306634,ME,Morning,1,0
+home,M,148.79,59.1,409415,HI,Morning,1,1
+shopping_pos,M,8.67,83.8,260125,OK,Morning,1,0
+personal_care,F,73.91,55.9,312200,OK,Evening,1,0
+gas_transport,F,14.17,27.9,361623,SD,Evening,1,0
+grocery_net,F,24.39,59.2,276307,MS,Morning,1,0
+travel,M,57.76,24.6,356550,MT,Evening,1,0
+grocery_pos,F,23.75,32.7,223924,AL,Morning,1,0
+shopping_pos,F,144.57,20.2,93296,ME,Evening,1,0
+shopping_net,M,142.05,55.0,475235,KS,Afternoon,0,0
+kids_pets,M,50.75,24.1,9705,MT,Evening,1,0
+shopping_pos,M,96.14,51.8,96285,NC,Evening,0,0
+home,M,80.3,85.2,102856,MA,Evening,1,0
+misc_net,M,122.43,69.8,116451,LA,Morning,0,0
+personal_care,M,94.3,23.6,229267,ID,Morning,1,0
+gas_transport,F,0.54,34.1,257027,IN,Afternoon,0,0
+travel,F,114.59,66.5,241774,MT,Afternoon,1,0
+personal_care,M,112.15,82.4,209076,MA,Late Night,1,0
+misc_pos,F,76.7,20.4,335208,MT,Afternoon,1,0
+entertainment,M,135.49,76.5,182377,TX,Morning,0,0
+entertainment,F,136.31,58.5,409133,VA,Afternoon,1,0
+shopping_net,M,78.82,57.3,2520,WY,Afternoon,0,0
+misc_pos,M,91.39,87.0,346692,NY,Evening,0,0
+shopping_pos,F,149.48,71.8,463169,AL,Afternoon,0,0
+travel,F,45.17,79.2,89997,KY,Late Night,0,0
+entertainment,M,49.03,43.5,27828,WI,Evening,0,0
+food_dining,M,27.82,57.9,124926,NH,Morning,1,0
+food_dining,M,134.43,62.3,57958,MI,Late Night,0,0
+home,M,111.8,41.2,368960,NM,Morning,0,0
+misc_net,M,16.29,59.1,180261,AZ,Late Night,0,0
+kids_pets,M,147.27,35.0,227776,OH,Evening,0,0
+grocery_net,F,109.78,28.3,261780,CO,Late Night,1,0
+food_dining,F,127.65,44.9,491847,UT,Late Night,1,1
+gas_transport,F,7.7,71.2,215429,NJ,Afternoon,1,0
+misc_pos,F,75.99,84.0,422280,AZ,Morning,0,0
+grocery_pos,F,104.94,51.0,228237,ND,Evening,0,0
+misc_net,M,81.67,64.3,339236,ID,Late Night,0,0
+kids_pets,M,100.16,25.4,361503,VA,Morning,1,0
+shopping_pos,F,122.77,83.1,378429,CA,Morning,0,0
+shopping_net,M,56.46,58.9,435556,NC,Afternoon,1,0
+travel,F,127.38,74.2,362526,WV,Morning,0,1
+gas_transport,F,24.86,75.2,214621,ME,Evening,0,1
+misc_net,M,41.0,36.5,143847,WV,Afternoon,1,1
+misc_pos,M,6.98,56.1,248522,MA,Late Night,0,0
+gas_transport,F,54.98,87.2,97777,SC,Evening,1,1
+misc_pos,F,57.3,24.5,485841,WY,Evening,0,0
+shopping_net,F,120.89,67.2,60149,SD,Evening,1,0
+travel,F,98.14,87.3,474980,NH,Afternoon,0,0
+kids_pets,M,65.79,39.6,179608,IN,Morning,0,0
+entertainment,F,97.99,80.0,40313,NE,Evening,0,1
+grocery_net,M,8.39,85.2,421427,KY,Morning,0,0
+grocery_net,F,27.45,71.8,266528,MT,Morning,0,0
+health_fitness,F,94.23,34.7,484345,HI,Evening,1,0
+shopping_net,M,96.38,42.0,279829,NJ,Morning,1,0
+shopping_net,M,116.23,20.6,458355,WA,Afternoon,0,0
+food_dining,M,60.75,77.9,357375,RI,Afternoon,1,0
+home,M,108.52,79.2,269375,MA,Late Night,1,0
+grocery_pos,M,102.76,63.6,43482,NE,Morning,1,0
+misc_pos,F,144.53,43.4,485049,NC,Morning,1,0
+health_fitness,F,32.66,23.5,426843,SC,Late Night,0,0
+personal_care,F,82.98,72.2,218665,RI,Afternoon,1,0
+travel,M,90.46,70.3,162108,WY,Late Night,1,0
+health_fitness,M,149.8,83.7,87181,MO,Late Night,0,0
+travel,M,30.58,70.6,53541,NY,Late Night,0,0
+travel,F,78.72,77.7,447914,SD,Morning,0,0
+shopping_net,M,52.25,71.7,79320,IL,Morning,0,0
+travel,F,79.12,63.4,239156,OR,Morning,0,0
+personal_care,F,35.2,48.7,151814,HI,Morning,0,0
+health_fitness,F,7.62,83.0,201079,CO,Evening,0,0
+misc_pos,M,86.1,64.9,12751,CT,Late Night,0,0
+shopping_net,F,50.71,46.7,132837,NY,Late Night,1,0
+kids_pets,F,27.7,24.0,269162,NV,Morning,0,0
+misc_pos,F,48.93,38.9,285251,FL,Afternoon,1,0
+grocery_net,M,7.87,57.1,228116,AZ,Evening,0,0
+misc_pos,F,142.59,37.8,206902,SD,Evening,0,0
+kids_pets,M,87.38,33.9,287279,WV,Afternoon,1,0
+misc_net,M,122.31,56.0,351596,MI,Morning,0,0
+shopping_pos,F,63.76,30.2,481918,AL,Evening,0,0
+shopping_pos,F,135.55,75.6,76849,VA,Evening,1,0
+grocery_net,M,72.76,52.9,376293,KS,Late Night,1,0
+entertainment,F,86.3,59.3,350392,CT,Late Night,1,0
+gas_transport,M,74.02,28.6,22311,KS,Morning,1,1
+entertainment,M,110.13,41.4,447903,MT,Morning,1,0
+home,M,85.22,47.5,26966,AZ,Late Night,1,0
+shopping_net,F,41.1,76.2,237112,NM,Late Night,0,0
+entertainment,M,22.26,73.5,490451,IA,Late Night,0,1
+personal_care,M,91.12,34.1,7444,AR,Afternoon,0,0
+grocery_net,F,73.63,62.4,330981,OR,Evening,0,0
+shopping_pos,F,14.85,35.5,332532,AZ,Morning,0,0
+travel,M,59.64,89.2,324790,CA,Morning,1,0
